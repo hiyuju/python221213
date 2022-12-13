@@ -1,10 +1,10 @@
-#function1.py
+#function2.py
 #함수 정의
 def times(a,b):
     return a*b
 
 #호출
-retValue=setValues(5)
+retValue=setValue(5)
 print(retValue)
 
 #함수 정의
@@ -13,3 +13,5 @@ def swap(x,y):
 
 #호출
 print(times(3,4))
+
+globals
