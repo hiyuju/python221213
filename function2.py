@@ -45,3 +45,6 @@ def func2(a):
 #호출
 print(func2(1))
 
+a="20221213snow"
+date=a[:8]
+date
